@@ -21,7 +21,7 @@ I am a Technology University student and software developer focused on **Backend
 
 ### 🚀 Featured Projects
 
-*   **[Onyx System]([https://github.com/Shinya-Kougami/Onyx-System](https://github.com/Shinya-Kougami/OnyxSystemV1))**: 
+*   **[Onyx System]([https://github.com/Shinya-Kougami/OnyxSystemV1])**: 
     *   *Backend-focused storage management interface.*
     *   Developed an interactive dashboard for resource administration and user share management, utilizing Docker for containerized deployment.
 *   **[Data Structures Research](https://github.com/Shinya-Kougami/Data-Structures)**: 
