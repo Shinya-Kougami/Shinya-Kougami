@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there! I'm Marvin Robles 👋
 
-<!--
-**Shinya-Kougami/Shinya-Kougami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Technology University student and software developer focused on **Backend Development**, **Network Administration**, and **Systems Architecture**. I am passionate about bridging the gap between hardware troubleshooting and software efficiency.
 
-Here are some ideas to get you started:
+### 🛠 Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+
+  ### Programming Languages
+  `C#` | `Kotlin` | `C` | `C++` | `Python`
+
+  ### Infrastructure & Networking
+  `SDN Management` | `Linux` | `Bash Scripting` | `Docker` | `CCNA`
+
+  ### Databases & Tools
+  `MySQL` | `Git` | `GitHub`
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+*   **[Onyx System](https://github.com/Shinya-Kougami/Onyx-System)**: 
+    *   *Backend-focused storage management interface.*
+    *   Developed an interactive dashboard for resource administration and user share management, utilizing Docker for containerized deployment.
+*   **[Data Structures Research](https://github.com/Shinya-Kougami/Data-Structures)**: 
+    *   *Academic technical research.*
+    *   Collaborated on high-level C# architecture research, focusing on recursion, arrays, and parameterized classes with strict adherence to clean-code standards.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinya-Kougami&show_icons=true&theme=radical)
+
+---
+
+### 💡 Interests & Continuous Learning
+*   **Music Theory:** Exploring the history and composition of Jazz; practicing piano, drums, and electric guitar.
+*   **Hardware Enthusiast:** Passionate about PC and console hardware repair, focusing on circuit diagnosis and modular restoration.
+*   **Fitness:** Committed to structured physical training.
+*   **Languages:** Currently improving English proficiency (B1/B2) and studying French[cite: 1].
+
+---
+
+### 📫 Connect with me
+
+*   **Email:** [marvinloera@gmail.com](mailto:marvinloera@gmail.com)
+*   **LinkedIn:** [Add your LinkedIn profile link here]
